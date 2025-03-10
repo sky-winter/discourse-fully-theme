@@ -1,1 +1,1 @@
-# openEuler-fully-theme
+# openFuyao-fully-theme
