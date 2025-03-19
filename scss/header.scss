@@ -62,34 +62,26 @@
         background-size: 100% 100%;
       }
       .pc-logo {
-        width: 86px;
-        height: 27px;
-        background-image: url(https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/detail-banner/forum.png);
+        width: 60px;
+        height: 26px;
+        background-image: url(https://openubmc-website.obs.cn-north-4.myhuaweicloud.com/logo/forum_light.png);
         @media screen and (max-width: 1000px) {
           display: none;
         }
       }
       .mo-logo {
         display: none;
-        width: 23px;
-        height: 24px;
-        background-image: url(https://forum.openeuler.org/uploads/default/original/1X/807e57835b97b8180921b7dd93e3d4530c446d17.png) !important;
-        @media screen and (max-width: 1000px) {
-          display: block;
-        }
-        @media screen and (max-width: 420px) {
-          width: 20px;
-          height: 21px;
-        }
       }
-      .openeuler-logo {
-        margin-top: 3px;
-        height: 18px;
-        width: 88px;
-        background-image: url(https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/detail-banner/openeuler.png);
+      .openubmc-logo {
+        height: 22px;
+        width: 108px;
+        background-image: url(https://openubmc-website.obs.cn-north-4.myhuaweicloud.com/logo/light.svg);
         @media screen and (max-width: 420px) {
           width: 68px;
           height: 16px;
+        }
+        @media screen and (max-width: 1000px) {
+          margin-left: 36px;
         }
       }
       .divid {
@@ -98,12 +90,18 @@
         height: 16px;
         background-color: var(--primary);
         @media screen and (max-width: 1000px) {
-          margin: 0 8px;
+          display: none;
         }
       }
       img {
         height: 100%;
       }
+    }
+  }
+
+  .panel {
+    .sign-up-button {
+      display: none;
     }
   }
 }
@@ -112,10 +110,10 @@
   .d-header {
     .home-logo-wrapper-outlet {
       .forum-logo {
-        background-image: url(https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/detail-banner/forum_dark.png);
+        background-image: url(https://openubmc-website.obs.cn-north-4.myhuaweicloud.com/logo/forum-dark.svg);
       }
-      .openeuler-logo {
-        background-image: url(https://openeuler-website-beijing.obs.cn-north-4.myhuaweicloud.com/detail-banner/openeuler_dark.png);
+      .openubmc-logo {
+        background-image: url(https://openubmc-website.obs.cn-north-4.myhuaweicloud.com/logo/dark.svg);
       }
     }
   }
