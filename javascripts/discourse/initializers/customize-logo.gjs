@@ -15,7 +15,7 @@ export default apiInitializer("1.34.0", (api) => {
     </a>
     <a
       class="website-logo lang-en"
-      href="https://www.mindspore.cn/"
+      href="https://www.mindspore.cn/en/"
       target="_blank"
     >
     </a>
