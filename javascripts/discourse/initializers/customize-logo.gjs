@@ -9,13 +9,13 @@ export default apiInitializer("1.34.0", (api) => {
     <span class="divid"></span>
     <a
       class="website-logo lang-zh"
-      href="https://opengauss.org/zh/"
+      href="https://www.mindspore.cn/"
       target="_blank"
     >
     </a>
     <a
       class="website-logo lang-en"
-      href="https://opengauss.org/en/"
+      href="https://www.mindspore.cn/"
       target="_blank"
     >
     </a>

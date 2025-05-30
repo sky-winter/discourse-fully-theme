@@ -1,1 +1,1 @@
-# openEuler-fully-theme
+# mindspore-fully-theme
