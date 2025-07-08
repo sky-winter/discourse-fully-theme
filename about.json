@@ -22,6 +22,9 @@
       "love": "fa6c8d",
       "selected": "e7edf6",
       "hover": "f2f2f2"
+    },
+    "openGauss-dark": {
+      "tertiary": "red"
     }
   }
 }
