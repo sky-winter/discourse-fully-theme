@@ -33,3 +33,11 @@ body.has-sidebar-page.has-full-page-chat #main-outlet-wrapper {
     margin: 0 auto;
   }
 }
+
+body.has-sidebar-page #main-outlet-wrapper .sidebar-wrapper {
+  width: 400px;
+}
+
+.desktop-view .has-sidebar-page .d-header-wrap::before {
+  width: 399px;
+}
