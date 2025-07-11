@@ -49,6 +49,10 @@
   }
 }
 
+.has-sidebar-page .d-header>.wrap .contents {
+  grid-template-columns: 389px 1fr minmax(0, calc(var(--d-max-width))) 1fr minmax(0, calc(var(--d-sidebar-width) - 11px));
+}
+
 .d-header {
   .home-logo-wrapper-outlet {
     margin-left: 3em;
