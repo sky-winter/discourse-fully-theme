@@ -35,7 +35,7 @@ body.has-sidebar-page.has-full-page-chat #main-outlet-wrapper {
 }
 
 body.has-sidebar-page #main-outlet-wrapper .sidebar-wrapper {
-  width: 400px;
+  width: 400px !important;
 }
 
 .desktop-view .has-sidebar-page .d-header-wrap::before {
