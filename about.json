@@ -4,8 +4,11 @@
     "https://github.com/discourse/discourse-full-width-component.git",
     "https://github.com/discourse/discourse-color-scheme-toggle.git",
     "https://github.com/discourse/new-like-icon.git",
-    "https://github.com/naidihr/discourse-category-banner-boxes.git",
-    "https://github.com/jlcoo/header-locale-selector.git"
+    "https://github.com/discourse/discourse-category-banners.git",
+    "https://github.com/opensourceways/header-locale-selector.git",
+    "https://github.com/opensourceways/discourse-cookie-policy.git",
+    "https://github.com/discourse/discourse-mermaid-theme-component.git",
+    "https://github.com/discourse/DiscoTOC.git"
   ],
   "name": "openFuyao Fully Theme",
   "color_schemes": {
