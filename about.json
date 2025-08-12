@@ -8,7 +8,8 @@
     "https://github.com/opensourceways/header-locale-selector.git",
     "https://github.com/opensourceways/discourse-cookie-policy.git",
     "https://github.com/discourse/discourse-mermaid-theme-component.git",
-    "https://github.com/discourse/DiscoTOC.git"
+    "https://github.com/discourse/DiscoTOC.git",
+    "https://github.com/discourse/discourse-matomo-analytics.git"
   ],
   "name": "openUBMC Fully Theme",
   "color_schemes": {
